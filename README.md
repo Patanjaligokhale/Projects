@@ -1,2 +1,2 @@
 # Projects
-These are the list of projects and the code snippets of tools and frameworks I have been learning.
+Here you will find the list of projects and the code snippets of the respective tools and frameworks I have been learning.
